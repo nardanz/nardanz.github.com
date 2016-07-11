@@ -19,10 +19,17 @@ collections:
 name: Test Jekyll • Nicolás Ardanz
 description: Transform your plain text into static websites and blogs
 url: https://jekyllrb.com
+avatar: https://avatars1.githubusercontent.com/u/9165711?v=3&s=460
 
 twitter:
   username: nardanz
-
+facebook:
+  username: nicolas.ardanz
+github:
+  username: nardanz
+Google+:
+  username: nardanz
+  
 logo: img/logo-2x.png
 
 gems:
